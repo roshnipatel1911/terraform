@@ -1,3 +1,6 @@
+NEW EC2
+
+
 #fetch existing vpc
 
 data "aws_vpc" "my_vpc" {
